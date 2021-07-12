@@ -8,7 +8,7 @@ headers = {
 il=input("il giriniz")
 if il=="":
     print("İl alanını boş girdiniz varsayın Izmir ayarlandı")
-    il=="Izm'r"
+    il=="Izmir"
 else:
     il=il.strip().capitalize()
 ilce=input("ilçe giriniz")
